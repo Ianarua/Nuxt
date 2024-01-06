@@ -12,6 +12,9 @@ useSeoMeta({
 });
 </script>
 <style>
+@import './assets/styles/base.scss';
+@import './assets/styles/iconfont.scss';
+
 :root {
     --van-primary-color: #FB7299 !important;
 }
